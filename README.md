@@ -26,7 +26,7 @@ SISig-OAX/
 Clone the repository and install the dependency:
 
 ```bash
-git clone https://github.com/vincentyan7461/SISig-OAX.git
+git clone https://github.com/NYCU-ICLAB/SISig-Feature-Selection.git
 cd SISig-OAX
 python -m pip install -r requirements.txt
 ```
